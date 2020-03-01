@@ -6,6 +6,6 @@ namespace CMP1903M_W07
 {
     interface IOffer
     {
-        bool UnderOffer();
+        string UnderOffer();
     }
 }
